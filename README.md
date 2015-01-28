@@ -35,6 +35,7 @@ after login
 * http://mgcrea.github.io/angular-strap/
 * http://nqdeng.github.io/7-days-nodejs/ In Chinese; not suggested
 * http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/ 
+* https://github.com/airbnb/javascript  //learn javascript
 
 ##Team
 - Tim(tim@rewardrefer.com)
